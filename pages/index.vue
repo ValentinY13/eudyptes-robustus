@@ -10,7 +10,7 @@
 
         <p class="reveal reveal-left-500">GILSON Anaïs</p>
         <nuxt-link class="btn reveal reveal-left-600" to="/eudyptes-robustus">
-          SUIVIT DES MANCHOTS
+          SUIVI DES MANCHOTS
           <i class="icon arrow"></i>
         </nuxt-link>
 
