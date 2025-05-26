@@ -7,6 +7,12 @@
 
 <style>
 
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
   html, body {
     background-color: #edeced;
 
